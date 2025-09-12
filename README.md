@@ -1,1 +1,1 @@
-# Citizen_AI
+# Citizen-AI
